@@ -3,7 +3,7 @@ Zajęcia z przedmiotu komunikacja człowiek-komputer
 
 Podstawowe znaczniki umożliwiające formatowanie;
 
-`# Nagłówek poziomu 1 #`
+`#Nagłówek poziomu 1 #`
 # Nagłówek poziomu 1 #
 `* Pochylenie *`
  *Pochylenie*
